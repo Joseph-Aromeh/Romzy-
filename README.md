@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Royal-Priest
+- 👋 Hi, I’m @Romzy
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python Programming Language
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
